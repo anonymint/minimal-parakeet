@@ -1,5 +1,5 @@
 {
-  "name": "kj",
+  "name": "Minimal Parakeet",
   "version": "1.0.0",
   "description": "Karma and Jasmine in a very simple way",
   "main": "index.js",

@@ -1,4 +1,4 @@
-# Minimum skeleton Karma, Jasmine   
+# Minimal skeleton Karma, Jasmine   
 This will be be project on and on accumulation. I will try to add more cases and see how it will be
 
 ## Setup
